@@ -1,7 +1,7 @@
 # Crypto Trading Algorithm
 
 ## Overview
-This notebook explores a cryptocurrency trading algorithm using Python. It utilizes historical market data of Bitcoin to USD, performs analysis, and implements a simple trading strategy based on Moving Average Crossover.
+This is a cryptocurrency trading algorithm using Python. It utilizes historical market data of Bitcoin to USD, performs analysis, and implements a simple trading strategy based on Moving Average Crossover.
 
 ## Requirements
 Ensure you have the following libraries installed:
